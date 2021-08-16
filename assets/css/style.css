@@ -55,3 +55,13 @@ body {
   footer a {
       color: #024e76;
   }
+  section {
+      padding:  60px;
+  }
+  
+  /* Hero style start */
+  .hero {
+      background-image: url("../images/hero-bg.jpg");
+      height: 600px;
+  }
+  /* Hero style end */
