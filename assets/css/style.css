@@ -67,7 +67,6 @@ body {
       background-position: center;
       position: relative;
   }
-  /* Hero style end */
 
   .hero-form {
       background-color: #fce138;
@@ -78,8 +77,8 @@ body {
       border-width: 3px; 
       border-color: #024e76;
       position: absolute;
-      bottom: 90px;
-      right: 115px;
+      bottom: 120px;
+      right: 140px;
       width: 490px;
   }
   .hero-form h3 {
@@ -101,4 +100,11 @@ body {
   .hero-form label {
       margin: 0 5px;
   }
-  
+  .hero-form button {
+      color:#fce138;
+      background-color: #024e76;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+  }
+   /* Hero style end */
