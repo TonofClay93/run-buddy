@@ -3,14 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: Helvetica, Arial, sans-serif;
     color:#39a6b2;
   }
+
   header {
       padding: 20px 35px;
       background-color:#39a6b2;
   }
+
   header h1 {
       font-weight: bold;
       font-size: 36px;
@@ -28,33 +31,40 @@ body {
       float: right;
       margin: 7px 0;
   }
+
   header nav ul li {
       display: inline;
   }
+
   header nav ul li a{
       margin: 0 30px;
       font-weight: lighter;
       font-size: 22px;
   }
+
   footer {
       background: #fce138;
       width: 100%;
       padding: 40px 35px;
   }
+
   footer h2 {
       display: inline;
       color: #024e76;
       font-size: 30px;
       margin: 0;
   }
+
   footer div {
       float: right;
       line-height: 1.5;
       text-align: right;
   }
+
   footer a {
       color: #024e76;
   }
+
   section {
       padding:  60px;
   }
@@ -126,23 +136,6 @@ body {
     background: #fce138;
   }
 
-  .section-title {
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
-  }
-  
-  .primary-border {
-    border-color: #fce138;
-  }
-  
-  .secondary-border {
-    border-color: #39a6b2;
-  }
-
   .steps div {
       margin-bottom: 80px;
   }
@@ -165,4 +158,21 @@ body {
 
   .steps span {
       font-size: 38px;
+  }
+
+  .section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+  }
+  
+  .primary-border {
+    border-color: #fce138;
+  }
+  
+  .secondary-border {
+    border-color: #39a6b2;
   }
