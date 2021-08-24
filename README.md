@@ -15,4 +15,3 @@ Made with ❤️ by Clayton Hooppaw
 
 ### ©️2019 Run Buddy, Inc 
 
-![Alt text](./assets/images/trainer-1.jpg raw=true "trainer")
